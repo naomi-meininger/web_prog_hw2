@@ -1,0 +1,77 @@
+body {
+        background-image: url("use.jpg");
+        background-repeat: no-repeat;
+        background-color: #cccccc;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+        text-align: center;
+        color: blue;
+}
+
+#link_one {
+
+        text-align: center;
+        color: blue;
+
+}
+#Mission {
+
+        text-align: center;
+        color: white;
+}
+
+p {
+        text-align: center;
+        color: white;
+        
+}
+
+#statement {
+        text-align: center;
+        color: white;
+        display: block;
+        
+}
+
+.links {
+        margin-left: auto;
+        margin-right: auto;
+}
+
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: blue;
+  color: white;
+}
+
+header {
+        background-color: blue;
+        color: white;
+        padding: 3px;
+
+}
+
+#happy {
+
+        margin-left: auto;
+        margin-right: auto;
+}
+
+a {
+
+        background-color: blue;
+        color: white;
+
+}
