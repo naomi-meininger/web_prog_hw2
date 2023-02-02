@@ -1,11 +1,15 @@
-body {
+@media only screen and (max-width: 500px) {
+   body {
         background-image: url("use.jpg");
         background-repeat: no-repeat;
         background-color: #cccccc;
         background-attachment: fixed;
         background-size: cover;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }     
 }
+
+
 
 h1 {
         text-align: center;
