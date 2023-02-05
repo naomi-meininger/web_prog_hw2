@@ -79,7 +79,7 @@ header {
         margin-right: auto;
 }
 
-a:hover {
+a {
 
         background-color: blue;
         color: white;
